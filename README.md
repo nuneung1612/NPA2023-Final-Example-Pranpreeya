@@ -1,8 +1,8 @@
 # NPA2023 Final Example
 
-- Name/Surname:
-- Student ID:
-- GitHub repository URL:
+- Name/Surname: Pranpreeya Mengmungmee
+- Student ID: 65070131
+- GitHub repository URL: https://github.com/nuneung1612/NPA2023-Final-Example-Pranpreeya.git
 
 ## Instruction
 
